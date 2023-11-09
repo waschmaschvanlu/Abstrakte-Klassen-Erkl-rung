@@ -80,8 +80,7 @@ switch (zahl)
         auto1.Drive(); // Auto.Drive() wird ausgeführt
 
 
-        Console.WriteLine(auto1.test);
-
+  
         Fahrrad // Fahrrad wird Unten geladen
             fahrrad1 = new Fahrrad(); // eine Neue Klasse wird erstellt --> Fahrzeug --> Fahrrad
         fahrrad1.Name = "BMX"; // Fahrrad bekommt den namen BMX (wird in Fahrzeug gemacht)
@@ -90,12 +89,7 @@ switch (zahl)
 
 
     case 3:
-        Fahrzeugzwei fahrzeug1 = new Fahrzeug();
-        Fahrzeugzwei fahrzeug2 = new Auto();
-        Fahrzeugzwei fahrzeug3 = new Motorrad();
-
-        fahrzeug1.Starten(); // Ausgabe: "Das Fahrzeug startet."
-        fahrzeug2.Starten(); // Ausgabe: "Das Auto startet. "▋
+      
 
         break;
 
