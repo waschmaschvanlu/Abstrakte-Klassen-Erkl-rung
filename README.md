@@ -25,6 +25,20 @@ Dann müsst ihr auf dieser Website oben Rechts auf Code und Drückt auf den Knop
 
 Diesen Link gebt ihr  nun unter "URL suchen oder eingeben" ein,
 
+
+Und dann Drückt ihr auf Klonen! :) 
+
+Jetzt wenn ihr in Visual Studio seit und das Projekt geladen ist müsst ihr:
+
+![image](https://github.com/waschmaschvanlu/Abstrakte-Klassen-Erkl-rung/assets/92580232/3e6d7d58-ccf8-46ab-9412-fad14202fa2d)
+auf der rechten seite bei der Projektmappe (Projektmappe "Abstrakte-Klassen") Ein Rechtsklick machen,
+und dann 
+![image](https://github.com/waschmaschvanlu/Abstrakte-Klassen-Erkl-rung/assets/92580232/66217393-9c04-48e0-a935-d8b23e42d03a)
+Projektmappe erstellen,
+
+nun könnt ihr diese Frei benutzen! <3
+
+
 Und dann Drückt ihr auf Klonen! :) das Wars!
 
 # Einfach Runterladen (ohne Github Konto)
@@ -38,6 +52,17 @@ Und dann downloadet ihr das ganze Projekt in einer Zip Datei, Nun Extrahiert (En
 
 dann geht ihr in Visual Studio und Geht auf "Projekt oder Projektmappe öffnen"
 und dort wählt ihr dann die Datei Abstrakte-Klassen.snl aus in eurem Extrahierten ordner, Tada!
+
+Jetzt wenn ihr in Visual Studio seit und das Projekt geladen ist müsst ihr:
+
+![image](https://github.com/waschmaschvanlu/Abstrakte-Klassen-Erkl-rung/assets/92580232/3e6d7d58-ccf8-46ab-9412-fad14202fa2d)
+auf der rechten seite bei der Projektmappe (Projektmappe "Abstrakte-Klassen") Ein Rechtsklick machen,
+und dann 
+![image](https://github.com/waschmaschvanlu/Abstrakte-Klassen-Erkl-rung/assets/92580232/66217393-9c04-48e0-a935-d8b23e42d03a)
+Projektmappe erstellen,
+
+nun könnt ihr diese Frei benutzen! <3
+
 
 
 # Ich will nur den Code Lesen,
