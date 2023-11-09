@@ -6,7 +6,7 @@ Das Projekt hier ist als Vorbereitung auf den Test am 10.11.2023 erstellt worden
 
 # Wie binde ich das in mein Visual Studio ein?
 
-# Über Github
+# Über Github (mit Github Account)
 Zuerst braucht ihr ein Github-Konto, 
 
 
